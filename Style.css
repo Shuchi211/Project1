@@ -1,0 +1,68 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    background: #0f172a;
+    color: white;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+}
+
+nav {
+    background: #020617;
+    padding: 15px 0;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 100px 0;
+}
+
+h1 span {
+    color: #6366f1;
+}
+
+.btn {
+    background: #6366f1;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.section-title {
+    margin: 50px 0 20px;
+}
+
+.card {
+    background: #1e293b;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.skills span {
+    display: inline-block;
+    background: #334155;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #020617;
+}
